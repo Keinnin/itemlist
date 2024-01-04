@@ -1,0 +1,9 @@
+{
+	"defName":"SetTraits",
+	"abbreviation":"settraits",
+	"cost":"1",
+	"eventCap":"6",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

@@ -1,0 +1,10 @@
+{
+	"defName":"ModInfo",
+	"command":"modinfo",
+	"enabled":"False",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

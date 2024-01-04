@@ -1,0 +1,9 @@
+{
+	"defName":"RandomDisease",
+	"abbreviation":"randomdisease",
+	"cost":"1000",
+	"eventCap":"2",
+	"karmaType":"Bad",
+	"minPointsToFire":"1000",
+	"maxWager":"10000",
+}

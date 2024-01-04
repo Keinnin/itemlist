@@ -1,0 +1,9 @@
+{
+	"defName":"ReplaceTrait",
+	"abbreviation":"replacetrait",
+	"cost":"1",
+	"eventCap":"50",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}
