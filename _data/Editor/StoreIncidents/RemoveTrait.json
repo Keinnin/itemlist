@@ -1,0 +1,9 @@
+{
+	"defName":"RemoveTrait",
+	"abbreviation":"removetrait",
+	"cost":"1",
+	"eventCap":"50",
+	"karmaType":"Good",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

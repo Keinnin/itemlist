@@ -1,0 +1,9 @@
+{
+	"defName":"UseItem",
+	"abbreviation":"use",
+	"cost":"1",
+	"eventCap":"200",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

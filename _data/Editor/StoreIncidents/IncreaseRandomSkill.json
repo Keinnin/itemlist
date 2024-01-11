@@ -1,0 +1,7 @@
+{
+	"defName":"IncreaseRandomSkill",
+	"abbreviation":"skillincrease",
+	"cost":"200",
+	"eventCap":"50",
+	"karmaType":"Good"
+}

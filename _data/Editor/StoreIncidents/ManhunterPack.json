@@ -1,0 +1,9 @@
+{
+	"defName":"ManhunterPack",
+	"abbreviation":"manhunterpack",
+	"cost":"1500",
+	"eventCap":"2",
+	"karmaType":"Bad",
+	"minPointsToFire":"1500",
+	"maxWager":"10000",
+}

@@ -1,0 +1,9 @@
+{
+	"defName":"AddPassion",
+	"abbreviation":"passion",
+	"cost":"7000",
+	"eventCap":"10",
+	"karmaType":"Good",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}
