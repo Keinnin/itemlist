@@ -12,18 +12,6 @@
     "version": null
   },
   {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Deathstroke Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Ancient Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Aelanna",
     "name": "Cleaning Speed",
     "steamId": null,
@@ -132,20 +120,8 @@
     "version": null
   },
   {
-    "author": "iFlash",
-    "name": "Clean Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "CleaningArea",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Shinzy",
-    "name": "Bridgello",
     "steamId": null,
     "version": null
   },
@@ -168,20 +144,8 @@
     "version": null
   },
   {
-    "author": "LemonSkin",
-    "name": "Outfit Builder Redux",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
   },
@@ -252,12 +216,6 @@
     "version": null
   },
   {
-    "author": "Botch_Job",
-    "name": "Possessed Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Quixotic",
     "name": "Roles Can Wait",
     "steamId": null,
@@ -270,20 +228,8 @@
     "version": null
   },
   {
-    "author": "Medicalpol",
-    "name": "Pristine Nature",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "QualitySurgeon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sinnamon and MrKev",
-    "name": "More Ritual Rewards (1.4)",
     "steamId": null,
     "version": null
   },
@@ -354,18 +300,6 @@
     "version": null
   },
   {
-    "author": "Derek Bickley",
-    "name": "[JAIL] Prison Walls",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "MaxZiCode",
     "name": "ZiTools objects seeker",
     "steamId": null,
@@ -398,24 +332,6 @@
   {
     "author": "Pyrce",
     "name": "Terrain Zone Selections",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ayameduki",
-    "name": "[1.4]Nearmare Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race",
     "steamId": null,
     "version": null
   }

@@ -1,0 +1,90 @@
+TwitchToolkit - Log - Thursday, January 11, 2024
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 0 coins, total 0
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 0 coins, total 0
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 0 coins, total 0
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 0 coins, total 0
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 0 coins, total 0
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1 coins, total 50
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1 coins, total 50
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1 coins, total 50
+Purchase fileycheesesteak: !buy steel 50 @ 8:18 AM
+fileycheesesteak's karma went from 100 to 117
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1.17 coins, total 59
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1.17 coins, total 59
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1.17 coins, total 59
+andrei_kroy gets 50 * 2.5 coins, total 125
+Purchase andrei_kroy: !buy table(2x4) 1 @ 8:24 AM
+andrei_kroy's karma went from 250 to 250
+Purchase fileycheesesteak: !buy wood 160 @ 8:24 AM
+fileycheesesteak's karma went from 117 to 154
+Purchase andrei_kroy: !buy diningchair 4 @ 8:24 AM
+andrei_kroy's karma went from 250 to 250
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1.54 coins, total 77
+andrei_kroy gets 50 * 2.5 coins, total 125
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1.54 coins, total 77
+andrei_kroy gets 50 * 2.5 coins, total 125
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1.54 coins, total 77
+andrei_kroy gets 50 * 2.5 coins, total 125
+oankong0414 gets 50 * 0 coins, total 0
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+fileycheesesteak gets 50 * 1.54 coins, total 77
+andrei_kroy gets 50 * 2.5 coins, total 125
+graxtello gets 50 * 2.5 coins, total 125
+graxtello gets 50 * 2.5 coins, total 125
+graxtello gets 50 * 2.5 coins, total 125
+keinnin gets 70 * 2.625 coins, total 184
+graxtello gets 50 * 2.5 coins, total 125
+keinnin gets 70 * 2.625 coins, total 184
+fileycheesesteak gets 50 * 1.54 coins, total 77
+Purchase keinnin: !buy use skilltrainer(plants) 5 @ 8:47 AM
+keinnin's karma went from 250 to 250
+graxtello gets 50 * 2.5 coins, total 125
+keinnin gets 70 * 2.625 coins, total 184
+fileycheesesteak gets 50 * 1.54 coins, total 77
+Purchase keinnin: !buy wear flakvest[masterwork] @ 8:50 AM
+keinnin's karma went from 250 to 250
+Purchase keinnin: !buy equip monosword @ 8:50 AM
+keinnin's karma went from 250 to 250
+graxtello gets 50 * 2.5 coins, total 125
+keinnin gets 70 * 2.625 coins, total 184
+fileycheesesteak gets 50 * 1.54 coins, total 77
+Purchase keinnin: !buy wear reconhelmet[masterwork] @ 8:50 AM
+keinnin's karma went from 250 to 250
+Purchase graxtello: !buy wear flakhelmet @ 8:52 AM
+graxtello's karma went from 250 to 250
+graxtello gets 50 * 2.5 coins, total 125
+keinnin gets 70 * 2.625 coins, total 184
+fileycheesesteak gets 50 * 1.54 coins, total 77
+Purchase graxtello: !buy equip assaultrifle @ 8:52 AM
+graxtello's karma went from 250 to 250
